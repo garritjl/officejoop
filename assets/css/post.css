@@ -1,0 +1,163 @@
+h1 {
+    font-family: itc-american-typewriter, serif;
+    font-size: 36pt;
+    font-weight: 500;
+    font-style: normal;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  h2 {
+    font-family: itc-american-typewriter, serif;
+    font-size: 28pt;
+    font-weight: 500;
+    font-style: normal;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  h3 {
+    font-family: itc-american-typewriter, serif;
+    font-size: 22pt;
+    font-weight: 500;
+    font-style: normal;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  p {
+    font-family: itc-american-typewriter, serif;
+    font-size: 16pt;
+    font-weight: 300;
+    font-style: normal;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 18pt;
+    word-wrap: break-word;
+  }
+  
+  li {
+    font-family: itc-american-typewriter, serif;
+  }
+  
+  ul {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+
+
+/** local links (green) **/
+
+  .green:link {
+    color: #64bc2a;
+    background-color: none; 
+    text-decoration: underline;
+  }
+  
+  .green:hover {
+    color: #64bc2a;
+    background-color: yellow; 
+    text-decoration: underline;
+  }
+  
+  .green:visited {
+    color: #64bc2a;
+    background-color: none; 
+    text-decoration: underline;
+  }
+  
+  .green:active {
+    color: #ff0000;
+    background-color: yellow; 
+    text-decoration: underline;
+  }
+  
+/** social links (blue) **/
+  .blue:link {
+    color: #0081ff;
+    background-color: none; 
+    text-decoration: underline;
+  }
+  
+  .blue:hover {
+    color: #0081ff;
+    background-color: yellow; 
+    text-decoration: underline;
+  }
+  
+  .blue:visited {
+    color: #0081ff;
+    background-color: none; 
+    text-decoration: underline;
+  }
+  
+  .blue:active {
+    color: #ff0000;
+    background-color: yellow; 
+    text-decoration: underline;
+  }
+  
+  .logo {
+    margin-left: -5px;
+    margin-right: 3px;
+    margin-top: -5px;
+    margin-bottom: -5px;
+  }
+  
+/** email link **/
+  .email:link {
+    color: black;
+    background-color: none; 
+    text-decoration: none;
+  }
+  
+  .email:hover {
+    color: black;
+    background-color: none; 
+    text-decoration: none;
+  }
+  
+  .email:visited {
+    color: black;
+    background-color: none; 
+    text-decoration: none;
+  }
+  
+  .email:active {
+    color: black;
+    background-color: none; 
+    text-decoration: none;
+  }
+
+
+  .logo {
+    margin-left: -5px;
+    margin-right: 3px;
+    margin-top: -5px;
+    margin-bottom: -7px;
+  }
+  
+  .stamp {
+    position: absolute;
+    top: 30pt;
+    left: 92pt;
+    pointer-events: none;
+    border: solid 2px transparent;
+  }
+  
+  .content {
+    position: static;
+  }
+  
+  #stampcanvas {
+    position: absolute;
+    top: 0pt;
+    left: 0pt;
+    pointer-events: none;
+    border: solid 2px;
+  }
+  
+  #redstamp {
+    transform: rotate(107deg);
+  }

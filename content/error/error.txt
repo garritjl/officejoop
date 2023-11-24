@@ -2,7 +2,7 @@ Title: Error
 
 ----
 
-Text: This page cannot be found 😱
+Text: This page can't be found
 
 ----
 
