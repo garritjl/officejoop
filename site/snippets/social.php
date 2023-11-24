@@ -11,17 +11,13 @@
   https://getkirby.com/docs/guide/templates/snippets
 */
 ?>
-<span class="social">
-  <a href="https://mastodon.social/@getkirby" aria-label="Follow us on Mastodon">
-    <?= svg('assets/icons/mastodon.svg') ?>
-  </a>
-  <a href="https://instagram.com/getkirby" aria-label="Follow us on Instagram">
-    <?= svg('assets/icons/instagram.svg') ?>
-  </a>
-  <a href="https://youtube.com/kirbycasts" aria-label="Watch our videos on YouTube">
-    <?= svg('assets/icons/youtube.svg') ?>
-  </a>
-  <a href="https://chat.getkirby.com" aria-label="Chat with us on Discord">
-    <?= svg('assets/icons/discord.svg') ?>
-  </a>
+<span class="navlinks">
+  <a class="blue" href="https://instagram.com/garritjkl">
+    Instagram</a>
+  
+  <a class="blue" href="https://soundcloud.com/cgear">
+    Music</a>
+  
+  <a class="blue" href="https://are.na/garrit-lichtenberg-ikxhs2w2fkm">
+    are.na</a>
 </span>

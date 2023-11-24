@@ -1,3 +1,7 @@
+html {
+  margin: 0px 0px 0px 0px;
+}
+
 h1 {
     font-family: itc-american-typewriter, serif;
     font-size: 36pt;
@@ -5,6 +9,9 @@ h1 {
     font-style: normal;
     margin-top: 0;
     margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0 0 0 0;
   }
   
   h2 {
@@ -14,6 +21,9 @@ h1 {
     font-style: normal;
     margin-top: 0;
     margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0 0 0 0;
   }
 
   h3 {
@@ -23,6 +33,8 @@ h1 {
     font-style: normal;
     margin-top: 0;
     margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
   }
   
   p {
@@ -32,6 +44,9 @@ h1 {
     font-style: normal;
     margin-top: 0;
     margin-bottom: 0;
+    margin-left: 26px;
+    margin-right: 0;
+    padding: 0 0 0 0;
     line-height: 18pt;
     word-wrap: break-word;
   }
@@ -45,57 +60,83 @@ h1 {
     margin-bottom: 0;
   }
   
+  .navlinks {
+    font-family: itc-american-typewriter, serif;
+    font-size: 12pt;
+    font-weight: 300;
+    font-style: normal;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0px;
+    margin-right: 0;
+    padding: 0 0 0 0;
+    line-height: 14pt;
+    word-wrap: break-word;
+  }
 
+  .logo {
+    font-family: itc-american-typewriter, serif;
+    font-size: 12pt;
+    font-weight: 300;
+    font-style: normal;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0px;
+    margin-right: 0;
+    padding: 0 0 0 0;
+    line-height: 14pt;
+    word-wrap: break-word;
+  }
 
 /** local links (green) **/
 
   .green:link {
     color: #64bc2a;
     background-color: none; 
-    text-decoration: underline;
+    text-decoration: none;
   }
   
   .green:hover {
     color: #64bc2a;
     background-color: yellow; 
-    text-decoration: underline;
+    text-decoration: none;
   }
   
   .green:visited {
     color: #64bc2a;
     background-color: none; 
-    text-decoration: underline;
+    text-decoration: none;
   }
   
   .green:active {
     color: #ff0000;
     background-color: yellow; 
-    text-decoration: underline;
+    text-decoration: none;
   }
   
 /** social links (blue) **/
   .blue:link {
     color: #0081ff;
     background-color: none; 
-    text-decoration: underline;
+    text-decoration: none;
   }
   
   .blue:hover {
     color: #0081ff;
     background-color: yellow; 
-    text-decoration: underline;
+    text-decoration: none;
   }
   
   .blue:visited {
     color: #0081ff;
     background-color: none; 
-    text-decoration: underline;
+    text-decoration: none;
   }
   
   .blue:active {
     color: #ff0000;
     background-color: yellow; 
-    text-decoration: underline;
+    text-decoration: none;
   }
   
   .logo {
@@ -129,14 +170,6 @@ h1 {
     background-color: none; 
     text-decoration: none;
   }
-
-
-  .logo {
-    margin-left: -5px;
-    margin-right: 3px;
-    margin-top: -5px;
-    margin-bottom: -7px;
-  }
   
   .stamp {
     position: absolute;
@@ -144,10 +177,6 @@ h1 {
     left: 92pt;
     pointer-events: none;
     border: solid 2px transparent;
-  }
-  
-  .content {
-    position: static;
   }
   
   #stampcanvas {
