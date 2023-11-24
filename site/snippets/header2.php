@@ -39,23 +39,25 @@
     </a>
   </span>
 
-    <nav class="menu">
+  <nav class="navlinks">
 
-      <span class="navlinks">
+      <span>
 
       <a class="green" href="https://garrit.net">garrit.net Home</a>
     
-    <a class="green" href="<?= $site->url() ?>">
-    archive Home</a>
+      <a class="green" href="<?= $site->url() ?>">
+      archive Home</a>
     
-    <a class="green" href="https://form.jotform.com/garritj6/principalities-mailing-list">
-    Principalities Mailing List</a>
+      <a class="green" href="https://form.jotform.com/garritj6/principalities-mailing-list">
+      Principalities Mailing List</a>
     
-
       </span>
+
       //
+
       <?php snippet('social') ?>
-    </nav>
+  </nav>
+
   </header>
 
   <main class="main">
