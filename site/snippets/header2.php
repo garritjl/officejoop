@@ -43,17 +43,17 @@
 
       <span>
 
-      <a class="green" href="https://garrit.net">garrit.net Home</a>
+      <a class="green" href="https://garrit.net">garrit.net Home</a>,
     
       <a class="green" href="<?= $site->url() ?>">
-      archive Home</a>
+      archive Home</a>,
     
       <a class="green" href="https://form.jotform.com/garritj6/principalities-mailing-list">
-      Principalities Mailing List</a>
+      <i>Principalities</i> Mailing List</a>,
     
       </span>
 
-      //
+      
 
       <?php snippet('social') ?>
       <br>
