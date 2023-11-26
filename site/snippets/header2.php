@@ -45,8 +45,11 @@
 
       <a class="green" href="https://garrit.net">garrit.net Home</a>,
     
-      <a class="green" href="<?= $site->url() ?>">
-      archive Home</a>,
+
+      <?php foreach ($site->children()->listed() as $item): ?>
+      <a class="green" href="<?= $item->url() ?>">
+      <?= $item->title()->esc() ?></a>,
+      <?php endforeach ?>
     
       <a class="green" href="https://form.jotform.com/garritj6/principalities-mailing-list">
       <i>Principalities</i> Mailing List</a>,
