@@ -8,7 +8,7 @@
                 <?php foreach ($page->images() as $image): ?>
                     <li>
                         <a href="<?= $image->url() ?>">
-                            <img class="img" src="<?= $image->resize(400, 400)->url() ?>">
+                            <img class="img" src="<?= $image->url() ?>">
                         </a>
                     </li>
                 <?php endforeach ?>
