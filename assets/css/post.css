@@ -82,6 +82,10 @@ h1 {
   
   li {
     font-family: itc-american-typewriter, serif;
+    font-size: 12pt;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 14pt;
   }
   
   ul {
