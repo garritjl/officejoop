@@ -4,4 +4,4 @@ Date: 11/2022
 ----
 Description: Illustration of a young prince and his loving younger brother, yearning to play with him as they did as small children. This text will make up the remainder of the "description" field because there is not anything else to say about the present topic, the topic at hand concerning the contents of this webpage you are currently viewing.
 ----
-Cover: /content/4_works/2_othermeans/1_othermeans.png
+Cover: (image: 1_othermeans.png)

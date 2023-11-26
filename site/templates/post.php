@@ -4,23 +4,17 @@
         <h4><?= $page->date()->esc() ?></h4>
 
         <span>
-        <a href="<?= $page->cover()->url() ?>">
-            <img style="margin-top: 14pt;" class="img" src="<?= $page->cover()->url() ?>">
+        <?php if($cover = $page->cover()->toFile()): ?>
+        <a href="<?= $cover()->toFile() ?>">
+            <img style="margin-top: 14pt;" class="img" src="<?= $cover()->toFile() ?>">
         </a>
-        </span>
-<br>
-        <span>
-        <a href="/content/4_works/1_siblingstory/1_siblingstory.png">
-            <img style="margin-top: 14pt;" class="img" src="/content/4_works/1_siblingstory/1_siblingstory.png">
-        </a>
+        <?php endif ?>
         </span>
 <br>
         <span>
         <?php if($image = $page->image()): ?>
         <a href="<?= $image->url() ?>">
-            
             <img style="margin-top: 14pt;" class="img" src="<?= $image->url() ?>" alt="none">
-            
         </a>
         <?php endif ?>
         </span>
