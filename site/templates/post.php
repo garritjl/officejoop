@@ -4,15 +4,15 @@
         <h4><?= $page->date()->esc() ?></h4>
 
         <span>
-        <?php if($cover = $page->cover()->toFile()): ?>
-        <a href="<?= $cover()->toFile() ?>">
-            <img style="margin-top: 14pt;" class="img" src="<?= $cover()->toFile() ?>">
+        <?php if ($cover = $page->cover()): ?>
+        <a href="<?= $cover->url() ?>">
+            <img style="margin-top: 14pt;" class="img" src="<?= $cover->url() ?>">
         </a>
         <?php endif ?>
         </span>
 <br>
         <span>
-        <?php if($image = $page->image()): ?>
+        <?php if ($image = $page->image()): ?>
         <a href="<?= $image->url() ?>">
             <img style="margin-top: 14pt;" class="img" src="<?= $image->url() ?>" alt="none">
         </a>
