@@ -213,12 +213,12 @@ h1 {
 .img {
   max-width: 800px;
   height: auto;
-  text-align: center;
+  object-fit: contain;
 }
 
 .gallery {
   max-width: 100%;
-  
+
 }
 
   .stamp {
