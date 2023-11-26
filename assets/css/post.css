@@ -1,5 +1,21 @@
 html {
+  margin: 6px 6px 6px 6px;
+  padding: 0px 0px 0px 0px;
+}
+
+body {
   margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+
+main {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+
+article {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
 }
 
 h1 {
@@ -7,6 +23,7 @@ h1 {
     font-size: 36pt;
     font-weight: 500;
     font-style: normal;
+    line-height: 36pt;
     margin-top: 0;
     margin-bottom: 0;
     margin-left: 0;
@@ -36,6 +53,17 @@ h1 {
     margin-left: 0;
     margin-right: 0;
   }
+
+  h4 {
+    font-family: itc-american-typewriter, serif;
+    font-size: 12pt;
+    font-weight: 300;
+    font-style: normal;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+  }
   
   p {
     font-family: itc-american-typewriter, serif;
@@ -44,7 +72,7 @@ h1 {
     font-style: normal;
     margin-top: 0;
     margin-bottom: 0;
-    margin-left: 26px;
+    margin-left: 72pt;
     margin-right: 0;
     padding: 0 0 0 0;
     line-height: 18pt;
@@ -86,6 +114,18 @@ h1 {
     padding: 0 0 0 0;
     line-height: 14pt;
     word-wrap: break-word;
+  }
+
+  .footer {
+    font-family: itc-american-typewriter, serif;
+    font-size: 12pt;
+    font-weight: 300;
+    font-style: normal;
+    margin: 0pt 0pt 0pt 0pt;
+    padding: 72pt 0pt 0pt 0pt;
+    line-height: 18pt;
+    word-wrap: break-word;
+    text-align: center;
   }
 
 /** local links (green) **/
@@ -139,12 +179,7 @@ h1 {
     text-decoration: none;
   }
   
-  .logo {
-    margin-left: -5px;
-    margin-right: 3px;
-    margin-top: -5px;
-    margin-bottom: -5px;
-  }
+
   
 /** email link **/
   .email:link {

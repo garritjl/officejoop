@@ -56,6 +56,8 @@
       //
 
       <?php snippet('social') ?>
+      <br>
+      <br>
   </nav>
 
   </header>
