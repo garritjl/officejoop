@@ -216,6 +216,11 @@ h1 {
   text-align: center;
 }
 
+.gallery {
+  max-width: 100%;
+  
+}
+
   .stamp {
     position: absolute;
     top: 30pt;
