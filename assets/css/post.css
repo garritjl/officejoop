@@ -42,6 +42,7 @@ h1 {
     margin-left: 0;
     margin-right: 0;
     padding: 0 0 0 0;
+    word-wrap: break-word;
   }
 
   h3 {
@@ -53,6 +54,7 @@ h1 {
     margin-bottom: 0;
     margin-left: 0;
     margin-right: 0;
+    word-wrap: break-word;
   }
 
   h4 {
@@ -64,6 +66,7 @@ h1 {
     margin-bottom: 0;
     margin-left: 0;
     margin-right: 0;
+    word-wrap: break-word;
   }
   
   p {
@@ -86,6 +89,7 @@ h1 {
     font-weight: 300;
     font-style: normal;
     line-height: 14pt;
+    word-wrap: break-word;
   }
   
   ul {
