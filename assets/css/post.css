@@ -218,8 +218,8 @@ h1 {
   
 /** images **/
 
-.img {
-  width: 100%;
+img.img {
+  
   
   
   max-height: 100vh;
