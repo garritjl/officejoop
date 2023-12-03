@@ -20,6 +20,15 @@
 
 ?>
 <?php snippet('header2') ?>
+
+<?php $featured = page('works')->children()->shuffle()->first(); ?>
+
+<div class="featured">
+  <a class="green" href="<?= $featured->url() ?>">
+    <p><?= $featured->title() ?></p>
+  </a>
+</div>
+
   <?php snippet('intro') ?>
   <?php
   /*
