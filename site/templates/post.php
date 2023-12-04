@@ -7,8 +7,8 @@
             <ul>
                 <li>
                 <?= $page->cover()->kirbytext($options = [ 
-                    'class' => 'img'
-                ])->resize(400, null) ?>
+                    'class' => 'img',
+                ]) ?>
                 </li>
                 <?php foreach ($page->images() as $image): ?>
                     <li>
