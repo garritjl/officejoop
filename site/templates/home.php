@@ -27,6 +27,7 @@
   <a class="green" href="<?= $featured->url() ?>">
     <p><?= $featured->title() ?></p>
   </a>
+  <img class="img" src="<?= $featured->cover()->kirbytext() ?>">
 </div>
 
   <?php snippet('intro') ?>

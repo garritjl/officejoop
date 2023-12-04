@@ -4,8 +4,14 @@
         
         <ul>
             <?php foreach ($page->children()->listed()->flip() as $item): ?>
-            <a class="green" <?php e($item->isOpen(), 'aria-current="page"') ?> href="<?= $item->url() ?>"><li><?= $item->title()->esc() ?></li></a>
-            <?php endforeach ?>
+                <a class="green" <?php e($item->isOpen(), 'aria-current="page"') ?> href="<?= $item->url() ?>">
+                    <li>
+                      <?= $item->title()->esc() ?>
+                    </li>
+                    <li>
+                        <img class="img" src="<?= $item->cover()->kirbytext()->resize(200, null)->url() ?>">
+                    </li>
+                </a><?php endforeach ?>
         </ul>
 
     </article>
