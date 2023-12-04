@@ -6,12 +6,12 @@
         <div class="gallery">
             <ul>
                 <li>
-                <?= $page->cover()->kirbytext() ?>
+                    <?= $page->cover()->kirbytext() ?>
                 </li>
                 <?php foreach ($page->images() as $image): ?>
                     <li>
                         <a href="<?= $image->url() ?>">
-                            <img class="img" src="<?= $image->resize(800, null)->url() ?>">
+                            <img src="<?= $image->resize(800, null)->url() ?>">
                         </a>
                     </li>
                 <?php endforeach ?>
