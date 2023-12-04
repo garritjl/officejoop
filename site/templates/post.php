@@ -6,9 +6,7 @@
         <div class="gallery">
             <ul>
                 <li>
-                <?= $page->cover()->kirbytext($options = [ 
-                    'class' => 'img',
-                ]) ?>
+                <?= $page->cover()->kirbytext() ?>
                 </li>
                 <?php foreach ($page->images() as $image): ?>
                     <li>
