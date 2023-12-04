@@ -6,7 +6,7 @@
         <div class="gallery">
             <ul>
                 <li>
-                <img class="img" src="<?= $page->cover()->kirbytext() ?>">
+                <img class="img" src="<?= $page->cover()->kirbytext()->url() ?>">
                 </li>
                 <?php foreach ($page->images() as $image): ?>
                     <li>
