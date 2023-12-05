@@ -10,8 +10,8 @@
                     </li>
                     <li>
                        <?= $item->cover()->kirbytext([
-                        width => '25%',
-                        height => '25%'
+                        'width' => '25%',
+                        'height' => '25%'
                        ]) ?>
                     </li>
                 </a><?php endforeach ?>
