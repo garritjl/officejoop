@@ -11,7 +11,7 @@
                 <?php foreach ($page->images() as $image): ?>
                     <li>
                         <a href="<?= $image->url() ?>">
-                            <img src="<?= $image->resize(800, null)->url() ?>">
+                            <img src="<?= $image->resize(600, null)->url() ?>">
                         </a>
                     </li>
                 <?php endforeach ?>
