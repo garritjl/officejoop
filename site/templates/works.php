@@ -9,7 +9,10 @@
                       <?= $item->title()->esc() ?>
                     </li>
                     <li>
-                        <img class="img" src="<?= $item->cover()->kirbytext()->resize(200, null)->url() ?>">
+                       <?= $item->cover()->kirbytext([
+                        width => '25%',
+                        height => '25%'
+                       ]) ?>
                     </li>
                 </a><?php endforeach ?>
         </ul>
