@@ -18,6 +18,6 @@
             </ul>
         </div>
 
-        <p><?= $page->description()->esc() ?></p>
+        <p class="marginleft" ><?= $page->description()->esc() ?></p>
     </article>
 <?php snippet('footer2') ?>

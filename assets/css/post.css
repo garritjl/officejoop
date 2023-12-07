@@ -76,19 +76,23 @@ h1 {
     font-style: normal;
     margin-top: 0;
     margin-bottom: 0;
-    margin-left: 72pt;
+    
     margin-right: 0;
     padding: 0 0 0 0;
     line-height: 18pt;
     word-wrap: break-word;
   }
+
+  p.marginleft {
+    margin-left: 72pt;
+  }
   
   li {
     font-family: itc-american-typewriter, serif;
-    font-size: 12pt;
+    font-size: 16pt;
     font-weight: 300;
     font-style: normal;
-    line-height: 14pt;
+    line-height: 18pt;
     word-wrap: break-word;
   }
   
