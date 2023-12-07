@@ -48,6 +48,11 @@
       <a class="green" href="<?= $site->url() ?>">
       <?= $site->title()->esc() ?>
       </a>
+      /
+      <?php $featured = page('works')->children()->shuffle()->first(); ?>
+      <a class="green" href="<?= $featured->url() ?>">
+      random page
+      </a>
       —
       <a class="blue" href="https://garrit.net">garrit.net Homepage</a>,
     
@@ -66,7 +71,6 @@
       
 
       <?php snippet('social') ?>
-      <br>
       <br>
   </nav>
 

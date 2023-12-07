@@ -2,7 +2,7 @@ Title: Invitation to My 23rd Birthday Party
 ----
 Date: 2023-04-01
 ----
-Description: Illustration of a young prince and his loving younger brother, yearning to play with him as they did as small children. This text will make up the remainder of the "description" field because there is not anything else to say about the present topic, the topic at hand concerning the contents of this webpage you are currently viewing.
+Description: 
 ----
 Cover: (image: 1_birthdayinvite.png link: self)
 ----
