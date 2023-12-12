@@ -4,6 +4,6 @@ Date: 2022-04-01
 ----
 Description: 
 ----
-Cover: (image: 1_ipos_cover.png link: self)
+Cover: (image: 1_ipos_cover.png imgclass: coverimage)
 ----
 Tags: book

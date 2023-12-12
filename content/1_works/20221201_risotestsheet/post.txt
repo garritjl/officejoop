@@ -4,6 +4,6 @@ Date: 2022-12-01
 ----
 Description: 
 ----
-Cover: (image: 1_risotestsheet.png link: self)
+Cover: (image: 1_risotestsheet.png imgclass: coverimage)
 ----
 Tags: poster, RISO

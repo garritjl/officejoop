@@ -4,6 +4,6 @@ Date: 2023-04-01
 ----
 Description: 
 ----
-Cover: (image: 1_birthdayinvite.png link: self)
+Cover: (image: 1_birthdayinvite.png imgclass: coverimage)
 ----
 Tags: poster

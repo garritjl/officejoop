@@ -4,6 +4,6 @@ Date: 2021-09-01
 ----
 Description: 
 ----
-Cover: (image: 1_music fan.jpg link: self)
+Cover: (image: 1_music fan.jpg imgclass: coverimage)
 ----
 Tags: drawing

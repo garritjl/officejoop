@@ -4,6 +4,6 @@ Date: 2022-09-01
 ----
 Description: 
 ----
-Cover: (image: 1_designersinresidence.png link: self)
+Cover: (image: 1_designersinresidence.png imgclass: coverimage)
 ----
 Tags: poster, Objects & Methods

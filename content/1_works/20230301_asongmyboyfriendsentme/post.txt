@@ -2,7 +2,7 @@ Title: A Song My Boyfriend Sent Me
 ----
 Date: 2023-03-01
 ----
-Description: Zine published in collaboration with [Pre-Shrunk Press](https://www.instagram.com/pre__shrunk/)
+Description: Zine published in collaboration with (link: https://www.instagram.com/pre__shrunk/ text: Pre-Shrunk Press class: green)
 ----
 Cover: (image: 1_zineside.png link: self)
 ----

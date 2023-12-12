@@ -5,9 +5,6 @@
 
         <div class="gallery">
             <ul>
-                <li>
-                    <?= $page->cover()->kirbytext() ?>
-                </li>
                 <?php foreach ($page->images() as $image): ?>
                     <li>
                         <a href="<?= $image->url() ?>">
@@ -18,6 +15,8 @@
             </ul>
         </div>
 
-        <p class="marginleft" ><?= $page->description()->esc() ?></p>
+        <p class="marginleft" ><?= $page->description()->kti() ?></p>
+        <p class="marginleft" ><strong>tags:</strong> <?= $page->tags()->kti() ?></p>
+        
     </article>
 <?php snippet('footer2') ?>

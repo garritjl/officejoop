@@ -9,9 +9,7 @@
                 <a class="green" <?php e($item->isOpen(), 'aria-current="page"') ?> href="<?= $item->url() ?>">
                     <li>
                       <?= $item->title()->esc() ?>
-                    </li>
-                    <li>
-                       <?= $item->cover()->kirbytext() ?>
+                      <?= $item->cover()->kt() ?>
                     </li>
                 </a>
               <?php endforeach ?>

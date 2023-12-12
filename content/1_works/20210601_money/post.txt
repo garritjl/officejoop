@@ -4,6 +4,6 @@ Date: 2021-06-01
 ----
 Description: An experiment in the aesthetics of bureaucracy, security and officiality
 ----
-Cover: (image: 1_one.png link: self)
+Cover: (image: 1_one.png imgclass: coverimage)
 ----
 Tags: 
