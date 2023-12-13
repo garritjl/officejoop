@@ -68,6 +68,19 @@ h1 {
     margin-right: 0;
     word-wrap: break-word;
   }
+
+  h5.caption {
+    font-family: itc-american-typewriter, serif;
+    font-size: 12pt;
+    font-weight: 500;
+    font-style: normal;
+    color:rgb(180, 180, 180);
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 72pt;
+    margin-right: 0;
+    word-wrap: break-word;
+  }
   
   p {
     font-family: itc-american-typewriter, serif;

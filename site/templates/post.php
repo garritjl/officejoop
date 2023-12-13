@@ -10,6 +10,7 @@
                         <a href="<?= $image->url() ?>">
                             <img src="<?= $image->resize(600, null)->url() ?>">
                         </a>
+                        <h5 class="caption"><?= $image->caption()->esc() ?></h5>
                     </li>
                 <?php endforeach ?>
             </ul>
