@@ -4,16 +4,18 @@
 
         <h1><?= $workspage->title()->esc() ?></h1>
         
+        <div class="gallery">
         <ul>
-            <?php foreach ($workspage->children()->listed()->flip() as $item): ?>
-                <a class="green" <?php e($item->isOpen(), 'aria-current="page"') ?> href="<?= $item->url() ?>">
-                    <li>
-                      <?= $item->title()->esc() ?>
-                      <?= $item->cover()->kt() ?>
-                    </li>
-                </a>
-              <?php endforeach ?>
+          <?php foreach ($workspage->children()->listed()->flip() as $item): ?>
+            <li>
+              <a class="green" <?php e($item->isOpen(), 'aria-current="page"') ?> href="<?= $item->url() ?>">
+                  <?= $item->title()->esc() ?>
+                  <?= $item->cover()->kt() ?>
+              </a>
+            </li>
+          <?php endforeach ?>
         </ul>
+          </div>
 
   </article>
 <?php snippet('footer2') ?>

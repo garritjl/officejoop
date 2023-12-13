@@ -15,8 +15,13 @@
             </ul>
         </div>
 
-        <p class="marginleft" ><?= $page->description()->kti() ?></p>
-        <p class="marginleft" ><strong>tags:</strong> <?= $page->tags()->kti() ?></p>
+        <p class="marginleft" >
+            <?= $page->description()->kti() ?>
+        </p>
+        <?php if ($page->hasChildren()) snippet('listpagechildren')?>
+        <p class="marginleft">
+        <strong>tags:</strong> <?= $page->tags()->kti() ?>
+        </p>
         
     </article>
 <?php snippet('footer2') ?>

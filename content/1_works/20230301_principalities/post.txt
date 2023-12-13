@@ -2,8 +2,8 @@ Title: Principalities
 ----
 Date: 2023-03-01
 ----
-Description: Ongoing mail-based publication/personal blog established in 2023.
+Description: Ongoing mail-based publication/personal blog established in 2023. See:
 ----
 Cover: (image: 1_issue3.png imgclass: coverimage)
 ----
-Tags: publication
+Tags: publication, ongoing
