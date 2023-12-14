@@ -1,6 +1,6 @@
 <?php snippet('header2') ?>
     <article>
-        <h1><i><?= $page->title()->esc() ?></i></h1>
+        <h1><i><?= $page->title()->kti() ?></i></h1>
         <h4><?= $page->date()->toDate('M Y') ?></h4>
 
         <div class="gallery">
