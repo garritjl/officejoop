@@ -10,6 +10,8 @@
             <li>
               <a class="green" <?php e($item->isOpen(), 'aria-current="page"') ?> href="<?= $item->url() ?>">
                   <?= $item->title()->kti() ?>
+                  <br>
+                  <?= $item->subtitle()->kti() ?>
                   <?= $item->cover()->kt() ?>
               </a>
             </li>

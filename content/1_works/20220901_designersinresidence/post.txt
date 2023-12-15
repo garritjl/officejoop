@@ -1,9 +1,11 @@
-Title: Designers in Residence, Objects & Methods Lecture Series
+Title: Designers in Residence
+----
+Subtitle: Objects & Methods Lecture Series
 ----
 Date: 2022-09-01
 ----
-Description: 
+Description: Lecture given by (link: https://ritual.engineer text: Herdimas Anggara class: green) and (link: https://ayhamghraowi.com text: Ayham Ghraowi class: green) at the Institute for Contemporary Art in Richmond, Virginia on September 12th, 2022.
 ----
 Cover: (image: 1_designersinresidence.png imgclass: coverimage)
 ----
-Tags: poster, Objects & Methods
+Tags: poster, Objects & Methods, ASCII art
