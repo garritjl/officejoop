@@ -6,4 +6,4 @@ Description:
 ----
 Cover: (image: 1_birthdayinvite.png imgclass: coverimage)
 ----
-Tags: poster
+Tags: poster, mail, thermal printing

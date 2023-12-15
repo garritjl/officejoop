@@ -1,0 +1,9 @@
+Title: I Gotta Take Care of You
+----
+Date: 2023-07-01
+----
+Description: graphite, sketchbook spread
+----
+Cover: (image: 1_gottatakecare.png imgclass: coverimage)
+----
+Tags: drawing

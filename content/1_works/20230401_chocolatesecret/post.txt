@@ -6,4 +6,4 @@ Description:
 ----
 Cover: (image: 2_chocolatesecretfront.png imgclass: coverimage)
 ----
-Tags: mail, Mario, poetry
+Tags: mail, Mario, poetry, thermal printing

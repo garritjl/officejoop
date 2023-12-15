@@ -6,4 +6,4 @@ Description: The fourth issue of my newsletter, *Principalities*.
 ----
 Cover: (image: 1_issue3.png imgclass: coverimage)
 ----
-Tags: publication
+Tags: publication, thermal printing

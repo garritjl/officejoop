@@ -1,0 +1,9 @@
+Title: Pound Sonic and Carbon Sonic
+----
+Date: 2023-02-06
+----
+Description: Typed image of Sonic the Hedgehog on my 1930 Underwood typewriter with carbon copy.
+----
+Cover: (image: 1_poundsoniccarbonsonic.png imgclass: coverimage)
+----
+Tags: typewriter, Sonic, ASCII Art
