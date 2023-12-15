@@ -2,7 +2,7 @@ Title: Objects & Methods Lecture Series 2022-2023
 ----
 Date: 2022-12-01
 ----
-Description: 
+Description: Poster/calendar of past and upcoming events for VCUarts Department of Graphic Design's *Objects & Methods* lecture series in the 2022-2023 term.
 ----
 Cover: (image: 1_omlectureseries.png imgclass: coverimage)
 ----
