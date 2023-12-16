@@ -6,4 +6,4 @@ Description: Typed image of Sonic the Hedgehog on my 1930 Underwood typewriter w
 ----
 Cover: (image: 1_poundsoniccarbonsonic.png imgclass: coverimage)
 ----
-Tags: typewriter, Sonic, ASCII Art
+Tags: drawing, typewriter, Sonic, ASCII Art

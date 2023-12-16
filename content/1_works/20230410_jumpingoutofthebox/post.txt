@@ -4,7 +4,7 @@ Subtitle: Mailpiece for Robin Alvare
 ----
 Date: 2023-04-10
 ----
-Description: graphite, sketchbook spread
+Description: oversize cardboard postcard
 14.75" x 10.25"
 ----
 Cover: (image: 1_jumpingoutofthebox.png imgclass: coverimage)
