@@ -3,7 +3,8 @@ Title: Principalities, Issue 003
 Date: 2023-10-20
 ----
 Description: The third issue of my newsletter, *Principalities*.
+[Documentation coming soon]
 ----
 Cover: (image: 1_issue3.png imgclass: coverimage)
 ----
-Tags: publication, thermal printing
+Tags: publication, thermal printing, poetry

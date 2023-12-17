@@ -6,4 +6,4 @@ Description:
 ----
 Cover: (image: 1_risotestsheet.png imgclass: coverimage)
 ----
-Tags: poster, RISO
+Tags: poster, RISO, poetry, Pokémon
