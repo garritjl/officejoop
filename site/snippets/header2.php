@@ -54,7 +54,7 @@
       <span>
 
       <a class="green" href="<?= $site->url() ?>">
-      <?= $site->title()->esc() ?>
+      <img style="margin-bottom: -1.8pt; margin-right: 3pt; margin-left: -1pt;" src="/favicon-16x16.png" ><?= $site->title()->esc() ?>
       </a>
       /
       <?php $featured = page('works')->children()->shuffle()->first(); ?>
