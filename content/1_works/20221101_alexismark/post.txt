@@ -1,8 +1,10 @@
-Title: Alexis Mark, Objects & Methods Lecture Series
+Title: Alexis Mark
 ----
-Date: 2022-11-01
+Subtitle: Poster Design, Objects & Methods Lecture Series
 ----
-Description: 
+Date: 2022-11-14
+----
+Description: Lecture given by (link: https://www.alexismark.com text: Alexis Mark class: blue) online on November 14th, 2022.
 ----
 Cover: (image: 1_alexismark.png imgclass: coverimage)
 ----

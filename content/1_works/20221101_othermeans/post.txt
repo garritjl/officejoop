@@ -1,8 +1,10 @@
-Title: Poster for Other Means, Objects & Methods Lecture Series
+Title: Other Means
 ----
-Date: 2022-11-01
+Subtitle: Poster Design, Objects & Methods Lecture Series
 ----
-Description: 
+Date: 2022-10-31
+----
+Description: Lecture given by (link: https://othermeans.us text: Other Means class: blue) at the 609 Bowe St. Auditorium in Richmond, Virginia on October 31st, 2022.
 ----
 Cover: (image: 1_othermeans.png imgclass: coverimage)
 ----
