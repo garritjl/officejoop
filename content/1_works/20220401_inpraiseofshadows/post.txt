@@ -2,7 +2,7 @@ Title: In Praise of Shadows
 ----
 Date: 2022-04-01
 ----
-Description: 
+Description: A reconstruction of Junichirō Tanizaki's essay on aesthetics, *In Praise of Shadows,* as a modern illuminated manuscript.
 ----
 Cover: (image: 1_ipos_cover.png imgclass: coverimage)
 ----
