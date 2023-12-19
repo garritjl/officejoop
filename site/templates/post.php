@@ -11,7 +11,9 @@
                         <a href="<?= $image->url() ?>">
                             <img src="<?= $image->url() ?>">
                         </a>
-                        <h5 class="caption"><?= $image->caption()->esc() ?></h5>
+                        <?php if ($image->caption()->isNotEmpty()): ?>
+                        <h5 class="caption">➔ <?= $image->caption()->esc() ?></h5>
+                        <?php endif ?>
                     </li>
                 <?php endforeach ?>
             </ul>
@@ -24,6 +26,8 @@
         <p class="marginleft">
         <strong>tags:</strong> <?= $page->tags()->kti() ?>
         </p>
-        
+        <a href="javascript:history.back()">
+        <img src="/content/backbut.svg" alt="back button" height="151" width="136">
+        </a>
     </article>
 <?php snippet('footer2') ?>
