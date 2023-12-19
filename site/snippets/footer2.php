@@ -3,7 +3,7 @@
 
   <footer class="footer">
     <div>
-      2023 version 0.3
+      <?= $site->footer()->esc() ?>
     </div>
   </footer>
 

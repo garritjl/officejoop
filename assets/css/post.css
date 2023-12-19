@@ -1,11 +1,13 @@
 html {
-  margin: 6px 6px 6px 6px;
+  margin: 0px 0px 0px 0px;
   padding: 0px 0px 0px 0px;
+  background-color: #ffffff;
 }
 
 body {
-  margin: 0px 0px 0px 0px;
+  margin: 6px 6px 6px 6px;
   padding: 0px 0px 0px 0px;
+  isolation: isolate;
 }
 
 main {
@@ -281,4 +283,43 @@ figure {
   
   #redstamp {
     transform: rotate(107deg);
+  }
+
+  #coverwrapper{
+width: 400px;
+  }
+
+  #darkgradient {
+    
+    background: linear-gradient(
+      0deg, 
+      rgba(0, 129, 255, 1),
+      rgba(0, 129, 255, 0.738),
+      rgba(0, 129, 255, 0.541),
+      rgba(0, 129, 255, 0.382),
+      rgba(0, 129, 255, 0.278),
+      rgba(0, 129, 255, 0.194),
+      rgba(0, 129, 255, 0.126),
+      rgba(0, 129, 255, 0.075),
+      rgba(0, 129, 255, 0.042),
+      rgba(0, 129, 255, 0.021),
+      rgba(0, 129, 255, 0.008),
+      rgba(0, 129, 255, 0.002),
+      rgba(0, 129, 255, 0)
+      );
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    height: 108pt;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+    
+    isolation: isolate;
+    pointer-events: none;
+  }
+
+  #workstext {
+    z-index: 1000;
   }

@@ -1,5 +1,6 @@
 <?php snippet('header2') ?>
-  <article>
+
+<article>
   <?php $workspage = page('works') ?>
 
         <h1><?= $workspage->title()->esc() ?></h1>
@@ -12,7 +13,7 @@
                   <?= $item->title()->kti() ?>
                   <br>
                   <?= $item->subtitle()->kti() ?>
-                  <?= $item->cover()->kt() ?>
+                  <div id="coverwrapper"><?= $item->cover()->kt() ?></div>
               </a>
             </li>
           <?php endforeach ?>
@@ -20,4 +21,16 @@
           
 
   </article>
-<?php snippet('footer2') ?>
+  
+
+  </main>
+
+  <footer class="footer">
+    <div>
+      <?= $site->footer()->esc() ?>
+    </div>
+  </footer>
+
+</body>
+<div id="darkgradient" >&nbsp;</div>
+</html>

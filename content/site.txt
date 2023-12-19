@@ -1,1 +1,4 @@
 Title: garrit j. lichtenberg archive
+----
+Footer: 2023 version 1.0
+----
