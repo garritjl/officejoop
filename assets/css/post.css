@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  margin: 6px 6px 6px 6px;
+  margin: 6px 6px 0px 6px;
   padding: 0px 0px 0px 0px;
   isolation: isolate;
 }
@@ -163,6 +163,7 @@ h1 {
     line-height: 18pt;
     word-wrap: break-word;
     text-align: center;
+    z-index: 1000;
   }
 
 /** local links (green) **/
@@ -285,8 +286,6 @@ figure {
     transform: rotate(107deg);
   }
 
-  
-
   #darkgradient {
     
     background: linear-gradient(
@@ -312,12 +311,7 @@ figure {
     position: fixed;
     bottom: 0;
     left: 0;
-    z-index: 0;
-    
+    z-index: -100;
     isolation: isolate;
     pointer-events: none;
-  }
-
-  #workstext {
-    z-index: 1000;
   }

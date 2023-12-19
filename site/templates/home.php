@@ -13,7 +13,7 @@
                   <?= $item->title()->kti() ?>
                   <br>
                   <?= $item->subtitle()->kti() ?>
-                  <div id="coverwrapper"><?= $item->cover()->kt() ?></div>
+                  <?= $item->cover()->kt() ?>
               </a>
             </li>
           <?php endforeach ?>
@@ -22,15 +22,6 @@
 
   </article>
   
-
-  </main>
-
-  <footer class="footer">
-    <div>
-      <?= $site->footer()->esc() ?>
-    </div>
-  </footer>
-
-</body>
-<div id="darkgradient" >&nbsp;</div>
-</html>
+  <div id="darkgradient" >&nbsp;</div>
+ 
+<?php snippet('footer2') ?>
