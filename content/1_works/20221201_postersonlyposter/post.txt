@@ -1,9 +1,21 @@
 Title: Posters Only Poster
+
 ----
+
 Date: 2022-12-01
+
 ----
+
 Description: 
+
 ----
+
 Cover: (image: 1_postersonlyposter.png imgclass: coverimage)
+
 ----
+
 Tags: poster
+
+----
+
+Uuid: knbrjLf8FsJ3QDs5

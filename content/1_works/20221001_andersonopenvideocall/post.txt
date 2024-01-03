@@ -1,11 +1,25 @@
 Title: The Anderson Open Video Call
+
 ----
+
 Subtitle: Poster Design
+
 ----
+
 Date: 2022-10-01
+
 ----
+
 Description: Poster for The Anderson Gallery's open call for video works for Fall 2022, according to the theme "Existence Now"
+
 ----
+
 Cover: (image: 1_andersonopenvideocall.png imgclass: coverimage)
+
 ----
+
 Tags: poster
+
+----
+
+Uuid: L34ZYRxdNqVmfZxU

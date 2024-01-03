@@ -1,12 +1,28 @@
 Title: *Jumping Out of the Box*
+
 ----
+
 Subtitle: Mailpiece for Robin Alvare
+
 ----
+
 Date: 2023-04-10
+
 ----
-Description: oversize cardboard postcard
+
+Description:
+
+oversize cardboard postcard
 14.75" x 10.25"
+
 ----
+
 Cover: (image: 1_jumpingoutofthebox.png imgclass: coverimage)
+
 ----
+
 Tags: mail, thermal printing
+
+----
+
+Uuid: dMFQC7jLEgK0ChW3

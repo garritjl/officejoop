@@ -1,11 +1,25 @@
 Title: Objects & Methods Presents: Alexis Mark
+
 ----
+
 Subtitle: Poster Design
+
 ----
+
 Date: 2022-11-14
+
 ----
+
 Description: Lecture given by (link: https://www.alexismark.com text: Alexis Mark class: blue) online on November 14th, 2022.
+
 ----
+
 Cover: (image: 1_alexismark.png imgclass: coverimage)
+
 ----
+
 Tags: poster, Objects & Methods
+
+----
+
+Uuid: v9Ai0Vl8WHMcXPOQ

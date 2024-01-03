@@ -1,9 +1,21 @@
 Title: Invitation to My 23rd Birthday Party
+
 ----
+
 Date: 2023-04-01
+
 ----
+
 Description: 
+
 ----
+
 Cover: (image: 1_birthdayinvite.png imgclass: coverimage)
+
 ----
+
 Tags: poster, mail, thermal printing
+
+----
+
+Uuid: MMNOI0g8DdKr8Hga

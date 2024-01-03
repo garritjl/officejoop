@@ -1,11 +1,25 @@
 Title: *A Song My Boyfriend Sent Me*
+
 ----
+
 Subtitle: Mini-Zine
+
 ----
+
 Date: 2023-03-01
+
 ----
+
 Description: Zine published in collaboration with (link: https://www.instagram.com/pre__shrunk/ text: Pre-Shrunk Press class: blue)
+
 ----
+
 Cover: (image: 1_pspzine_inside.png imgclass: coverimage)
+
 ----
+
 Tags: RISO, zine, Music
+
+----
+
+Uuid: Ru32DS1d9jjYZr8a

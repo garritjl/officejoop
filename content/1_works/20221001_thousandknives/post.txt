@@ -1,9 +1,21 @@
 Title: Thousand Knives
+
 ----
+
 Date: 2022-10-01
+
 ----
+
 Description: Artwork created for a cover of Ryuichi Sakamoto's _Thousand Knives_
+
 ----
+
 Cover: (image: 1_thousand knives.png imgclass: coverimage)
+
 ----
+
 Tags: drawing, Music
+
+----
+
+Uuid: NPhjirIoOsiTH3mD

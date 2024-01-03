@@ -1,11 +1,25 @@
 Title: *Chocolate Secret*
+
 ----
+
 Subtitle: Postcard to Yoko Ori in Japan
+
 ----
+
 Date: 2023-04-01
+
 ----
+
 Description: 
+
 ----
+
 Cover: (image: 2_chocolatesecretfront.png imgclass: coverimage)
+
 ----
+
 Tags: mail, Mario, poetry, thermal printing
+
+----
+
+Uuid: LjNk2uysMFyQxRW9

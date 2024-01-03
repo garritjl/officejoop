@@ -1,9 +1,21 @@
 Title: *Sibling Story*
+
 ----
+
 Date: 2021-04-01
+
 ----
+
 Description: 
+
 ----
+
 Cover: (image: 1_siblingstory.png imgclass: coverimage)
+
 ----
+
 Tags: drawing
+
+----
+
+Uuid: uQfabOvd0u2GHvmb

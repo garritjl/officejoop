@@ -17,7 +17,7 @@ columns:
     sections:
       # The `notes` section reuses the pages section defined in `/site/blueprints/sections/notes.yml`
       notes: sections/notes
-
+      works: sections/works
       # The `pages` pages section shows other main pages of the site
       # Using the `templates` option, we limit which types of pages are shown
       # Using the `create` option, we limit the type of page that can be created when a new page is created
@@ -30,3 +30,4 @@ columns:
           - about
           - home
           - default
+

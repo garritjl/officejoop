@@ -1,9 +1,21 @@
 Title: *Monkey*
+
 ----
+
 Date: 2021-09-01
+
 ----
+
 Description: 
+
 ----
+
 Cover: (image: 1_monkey.png imgclass: coverimage)
+
 ----
+
 Tags: poster, drawing
+
+----
+
+Uuid: z3zcEgPEMvfmCb9K

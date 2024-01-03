@@ -1,9 +1,21 @@
 Title: *Anti-Nostalgic*
+
 ----
+
 Date: 2023-02-01
+
 ----
+
 Description: 
+
 ----
+
 Cover: (image: 1_antinostalgic.png imgclass: coverimage)
+
 ----
+
 Tags: drawing, thermal printing, poetry, anime, Music
+
+----
+
+Uuid: DwX1LTYVhIRPnUsV
