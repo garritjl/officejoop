@@ -8,7 +8,7 @@
   $item = $item->filterBy('tags', $tag, ',');
 }
 ?>
-        <h1><?= $page->title()->esc() ?></h1>
+        <a class="email" href="/works"><h1><?= $page->title()->esc() ?></h1></a>
         
 
         <?php $tags = $page->children()->listed()->pluck('tags', ',', true); ?>
@@ -27,11 +27,9 @@
           <?php foreach ($item as $item): ?>
             <li>
               <a class="green" <?php e($item->isOpen(), 'aria-current="page"') ?> href="<?= $item->url() ?>">
-                  <?= $item->title()->kti() ?>
-                  <br>
+                  <?= $item->title()->kti() ?><br>
                   <?= $item->subtitle()->kti() ?>
-                  <?= $item->cover()->kt() ?>
-              </a>
+                  <?= $item->cover()->kt() ?></a>
             </li>
           <?php endforeach ?>
         </ul>

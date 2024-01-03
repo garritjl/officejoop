@@ -3,6 +3,7 @@ Title: *Pound Sonic and Carbon Sonic*
 Date: 2023-02-06
 ----
 Description: Typed image of Sonic the Hedgehog on my 1930 Underwood typewriter with carbon copy.
+An experiment in the potential of analog ASCII art made using typewriters. Influenced by my discovery of (link: https://www.are.na/block/20062144 text: *Artyping* class: blue) by Julius Nelson, an artifact of the practice's history, published in 1939.
 ----
 Cover: (image: 1_poundsoniccarbonsonic.png imgclass: coverimage)
 ----

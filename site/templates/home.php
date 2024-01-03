@@ -1,5 +1,5 @@
 <?php snippet('header2') ?>
-
+<?php go(page('works')) ?>
 <article>
   <?php $workspage = page('works') ?>
   <?php $item = $workspage->children()->listed()->filterBy('tags', param('tag'), ',')->flip() ?>
@@ -8,7 +8,7 @@
   $item = $item->filterBy('tags', $tag, ',');
 }
 ?>
-        <h1><?= $workspage->title()->esc() ?></h1>
+        <a class="email" href="/works"><h1><?= $workspage->title()->esc() ?></h1></a>
         
         <?php $tags = $workspage->children()->listed()->pluck('tags', ',', true); ?>
         <ul class="tags">
