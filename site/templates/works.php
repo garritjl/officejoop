@@ -30,6 +30,9 @@
                   <?= $item->title()->kti() ?><br>
                   <?= $item->subtitle()->kti() ?>
                   <?= $item->cover()->kt() ?></a>
+                  <?php if ($cover = $item->cover()->toFile()): ?>
+                  <img src="<?= $cover->crop(400, 500)->url() ?>" alt="alt text">
+                  <?php endif ?>
             </li>
           <?php endforeach ?>
         </ul>

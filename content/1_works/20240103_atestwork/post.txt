@@ -1,0 +1,28 @@
+Title: a test work
+
+----
+
+Date: 2024-01-03
+
+----
+
+Tags: identity
+
+----
+
+Description: the description
+
+----
+
+Cover: - file://IJSG5ov1QH4EGGpA
+
+----
+
+Pics:
+
+- file://TOagSkYiB6jEpDvv
+- file://RcBTzPaPw8mHiHlM
+
+----
+
+Uuid: wDsECaG69QCtNMNl

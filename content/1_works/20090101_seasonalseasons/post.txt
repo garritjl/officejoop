@@ -10,7 +10,7 @@ Description:
 
 ----
 
-Cover: (image: 1_seasonalseasons.png imgclass: coverimage)
+Cover: 
 
 ----
 

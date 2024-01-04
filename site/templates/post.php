@@ -15,7 +15,7 @@
 
         <div class="gallery">
             <ul>
-                <?php foreach ($page->images() as $image): ?>
+                <?php foreach ($page->pics()->toFiles() as $image): ?>
                     <li>
                         <a href="<?= $image->url() ?>">
                             <img src="<?= $image->url() ?>">

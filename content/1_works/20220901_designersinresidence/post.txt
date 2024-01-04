@@ -14,7 +14,7 @@ Description: Lecture given by (link: https://ritual.engineer text: Herdimas Angg
 
 ----
 
-Cover: (image: 1_designersinresidence.png imgclass: coverimage)
+Cover: 
 
 ----
 

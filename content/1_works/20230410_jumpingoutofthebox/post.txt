@@ -2,11 +2,11 @@ Title: *Jumping Out of the Box*
 
 ----
 
-Subtitle: Mailpiece for Robin Alvare
+Date: 2023-04-10
 
 ----
 
-Date: 2023-04-10
+Tags: mail, thermal printing
 
 ----
 
@@ -17,11 +17,18 @@ oversize cardboard postcard
 
 ----
 
-Cover: (image: 1_jumpingoutofthebox.png imgclass: coverimage)
+Cover: - file://cknU0mhnj6Qu1D7j
 
 ----
 
-Tags: mail, thermal printing
+Pics:
+
+- file://cknU0mhnj6Qu1D7j
+- file://mvZj6iGMi8piOoEh
+
+----
+
+Subtitle: Mailpiece for Robin Alvare
 
 ----
 

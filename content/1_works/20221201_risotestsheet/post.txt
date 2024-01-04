@@ -10,7 +10,7 @@ Description:
 
 ----
 
-Cover: (image: 1_risotestsheet.png imgclass: coverimage)
+Cover: 
 
 ----
 

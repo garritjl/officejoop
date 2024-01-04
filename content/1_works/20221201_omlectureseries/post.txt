@@ -14,7 +14,7 @@ Description: Poster/calendar of past and upcoming events for VCUarts Department 
 
 ----
 
-Cover: (image: 1_omlectureseries.png imgclass: coverimage)
+Cover: 
 
 ----
 

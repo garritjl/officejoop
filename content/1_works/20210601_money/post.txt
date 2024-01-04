@@ -10,7 +10,7 @@ Description: An experiment in the aesthetics of bureaucracy, security and offici
 
 ----
 
-Cover: (image: 1_one.png imgclass: coverimage)
+Cover: 
 
 ----
 

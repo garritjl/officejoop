@@ -4,6 +4,6 @@ Date: 2024-02-10
 ----
 Description: The fourth issue of my newsletter, *Principalities*.
 ----
-Cover: (image: 1_issue3.png imgclass: coverimage)
+Cover: 
 ----
 Tags: publication, thermal printing

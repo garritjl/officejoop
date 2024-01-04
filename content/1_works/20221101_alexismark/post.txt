@@ -14,7 +14,7 @@ Description: Lecture given by (link: https://www.alexismark.com text: Alexis Mar
 
 ----
 
-Cover: (image: 1_alexismark.png imgclass: coverimage)
+Cover: 
 
 ----
 

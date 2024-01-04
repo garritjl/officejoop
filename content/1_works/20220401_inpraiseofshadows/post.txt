@@ -10,7 +10,7 @@ Description: A reconstruction of Junichirō Tanizaki's essay on aesthetics, *In 
 
 ----
 
-Cover: (image: 1_ipos_cover.png imgclass: coverimage)
+Cover: 
 
 ----
 

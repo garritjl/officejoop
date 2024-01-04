@@ -14,7 +14,7 @@ Description: Zine published in collaboration with (link: https://www.instagram.c
 
 ----
 
-Cover: (image: 1_pspzine_inside.png imgclass: coverimage)
+Cover: 
 
 ----
 

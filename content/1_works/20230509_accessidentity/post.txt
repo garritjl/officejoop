@@ -2,11 +2,11 @@ Title: *access*
 
 ----
 
-Subtitle: Identity
+Date: 2023-05-09
 
 ----
 
-Date: 2023-05-09
+Tags: identity
 
 ----
 
@@ -22,11 +22,22 @@ The VCUarts Department of Fashion Design + Merchandising holds an annual juried 
 
 ----
 
-Cover: (image: 1_cctv.png imgclass: coverimage)
+Cover: - file://bMyu0ctKzzlRboRI
 
 ----
 
-Tags: identity
+Pics:
+
+- file://bMyu0ctKzzlRboRI
+- file://jw7zpRpSevuobS0y
+- file://J8WzqKRLFwMSJp8z
+- file://sFuTkleU39RlnHe7
+- file://ijknRlNFgNYz382l
+- file://cPUxTAfz1vCfU6ZC
+
+----
+
+Subtitle: Identity
 
 ----
 

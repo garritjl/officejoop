@@ -6,15 +6,19 @@ Date: 2023-07-01
 
 ----
 
+Tags: drawing
+
+----
+
 Description: graphite, sketchbook spread
 
 ----
 
-Cover: (image: 1_gottatakecare.png imgclass: coverimage)
+Cover: - file://PHukqjA6U5o9ViXm
 
 ----
 
-Tags: drawing
+Pics: - file://PHukqjA6U5o9ViXm
 
 ----
 

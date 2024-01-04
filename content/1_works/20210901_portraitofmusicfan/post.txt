@@ -10,7 +10,7 @@ Description: Featured in *Bleeding Out*, a group show presented by Art Death at 
 
 ----
 
-Cover: (image: 1_music fan.jpg imgclass: coverimage)
+Cover: 
 
 ----
 

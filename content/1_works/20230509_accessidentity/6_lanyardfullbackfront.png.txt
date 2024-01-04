@@ -1,2 +1,5 @@
 Caption: Lanyard Souvenir for Attendees, Edition of 1050
+
 ----
+
+Uuid: ijknRlNFgNYz382l

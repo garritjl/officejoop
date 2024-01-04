@@ -14,7 +14,7 @@ Description: Lecture given by (link: https://othermeans.us text: Other Means cla
 
 ----
 
-Cover: (image: 1_othermeans.png imgclass: coverimage)
+Cover: 
 
 ----
 

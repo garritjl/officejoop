@@ -10,7 +10,7 @@ Description:
 
 ----
 
-Cover: (image: 1_scary.png imgclass: coverimage)
+Cover: 
 
 ----
 

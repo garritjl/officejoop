@@ -10,7 +10,7 @@ Description: Ongoing mail-based publication/personal blog established in 2023. S
 
 ----
 
-Cover: (image: 1_pp.png imgclass: coverimage)
+Cover: 
 
 ----
 

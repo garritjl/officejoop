@@ -10,7 +10,7 @@ Description: Artwork created for a cover of Ryuichi Sakamoto's _Thousand Knives_
 
 ----
 
-Cover: (image: 1_thousand knives.png imgclass: coverimage)
+Cover: 
 
 ----
 

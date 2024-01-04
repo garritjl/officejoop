@@ -14,7 +14,7 @@ Description: Poster for The Anderson Gallery's open call for video works for Fal
 
 ----
 
-Cover: (image: 1_andersonopenvideocall.png imgclass: coverimage)
+Cover: 
 
 ----
 

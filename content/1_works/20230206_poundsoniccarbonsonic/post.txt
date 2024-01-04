@@ -13,7 +13,7 @@ An experiment in the potential of analog ASCII art made using typewriters. Influ
 
 ----
 
-Cover: (image: 1_poundsoniccarbonsonic.png imgclass: coverimage)
+Cover: 
 
 ----
 

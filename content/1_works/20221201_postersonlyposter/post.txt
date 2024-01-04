@@ -10,7 +10,7 @@ Description:
 
 ----
 
-Cover: (image: 1_postersonlyposter.png imgclass: coverimage)
+Cover: 
 
 ----
 
