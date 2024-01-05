@@ -6,6 +6,10 @@ Date: 2023-02-06
 
 ----
 
+Tags: drawing, typewriter, Sonic, ASCII art
+
+----
+
 Description:
 
 Typed image of Sonic the Hedgehog on my 1930 Underwood typewriter with carbon copy.
@@ -13,11 +17,11 @@ An experiment in the potential of analog ASCII art made using typewriters. Influ
 
 ----
 
-Cover: 
+Cover: - file://MOTae9zaHkYDwQ79
 
 ----
 
-Tags: drawing, typewriter, Sonic, ASCII art
+Pics: - file://MOTae9zaHkYDwQ79
 
 ----
 

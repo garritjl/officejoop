@@ -6,15 +6,19 @@ Date: 2022-10-01
 
 ----
 
+Tags: drawing, Music
+
+----
+
 Description: Artwork created for a cover of Ryuichi Sakamoto's _Thousand Knives_
 
 ----
 
-Cover: 
+Cover: - file://EqG64Jkti344zpDD
 
 ----
 
-Tags: drawing, Music
+Pics: - file://EqG64Jkti344zpDD
 
 ----
 

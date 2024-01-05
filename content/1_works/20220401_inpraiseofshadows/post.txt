@@ -6,15 +6,27 @@ Date: 2022-04-01
 
 ----
 
-Description: A reconstruction of Junichirō Tanizaki's essay on aesthetics, *In Praise of Shadows,* as a modern illuminated manuscript.
-
-----
-
-Cover: 
-
-----
-
 Tags: book
+
+----
+
+Description: A reconstruction of Junichirō Tanizaki's essay on aesthetics, *In Praise of Shadows,* as a modern (link: https://en.wikipedia.org/wiki/Illuminated_manuscript text: illuminated manuscript. class: blue)
+
+----
+
+Cover: - file://6lL27Q0sYj5STnst
+
+----
+
+Pics:
+
+- file://6lL27Q0sYj5STnst
+- file://Fv67Iq5HWTrk0WgY
+- file://tEC7c1FtKW3BYqXX
+- file://xmpY8J6RllrQMg5a
+- file://vsCXXee5c97c7jsm
+- file://MDJHbm3daOfWo5vH
+- file://GoLtRLZLtCcg9rgh
 
 ----
 

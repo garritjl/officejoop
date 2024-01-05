@@ -2,11 +2,11 @@ Title: The Anderson Open Video Call
 
 ----
 
-Subtitle: Poster Design
+Date: 2022-10-01
 
 ----
 
-Date: 2022-10-01
+Tags: poster
 
 ----
 
@@ -14,11 +14,15 @@ Description: Poster for The Anderson Gallery's open call for video works for Fal
 
 ----
 
-Cover: 
+Cover: - file://uLsuvufDxPrQnGQM
 
 ----
 
-Tags: poster
+Pics: - file://uLsuvufDxPrQnGQM
+
+----
+
+Subtitle: Poster Design
 
 ----
 

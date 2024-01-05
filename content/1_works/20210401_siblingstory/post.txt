@@ -6,15 +6,22 @@ Date: 2021-04-01
 
 ----
 
+Tags: drawing
+
+----
+
 Description: 
 
 ----
 
-Cover: 
+Cover: - file://ePCA6ApaM1wMB7JS
 
 ----
 
-Tags: drawing
+Pics:
+
+- file://ePCA6ApaM1wMB7JS
+- file://sxYSVcYpkEl7OeZH
 
 ----
 

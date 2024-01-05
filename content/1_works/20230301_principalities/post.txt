@@ -6,15 +6,25 @@ Date: 2023-03-01
 
 ----
 
+Tags: publication, ongoing, thermal printing
+
+----
+
 Description: Ongoing mail-based publication/personal blog established in 2023. See:
 
 ----
 
-Cover: 
+Cover: - file://OvwZ3bB18gIyHOeJ
 
 ----
 
-Tags: publication, ongoing, thermal printing
+Pics:
+
+- file://OvwZ3bB18gIyHOeJ
+- file://4cBDHUmjAXSNCOmq
+- file://jSkCNkj8GyCYzp5z
+- file://UMyll9roa2T58BQf
+- file://SrKvHWjrvb3Rhlya
 
 ----
 

@@ -1,12 +1,4 @@
 <?php snippet('header2') ?>
-    
-<?php $workspage = page('works') ?>
-<?php $item = $workspage->children()->listed()->flip() ?>
-
-  <?php if($tag = param('tag')) {
-  $item = $item->filterBy('tags', $tag, ',');
-}
-?>
 
 <article>
         <h1><?= $page->title()->kti() ?></h1>
@@ -21,7 +13,12 @@
                             <img src="<?= $image->url() ?>">
                         </a>
                         <?php if ($image->caption()->isNotEmpty()): ?>
-                        <h5 class="caption">➔ <?= $image->caption()->esc() ?></h5>
+                        <h5 class="caption"> 
+                            <svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 275.542 250.613" fill="rgb(180, 180, 180)">
+                                <g id="c" data-name="Layer 1">
+                                <path d="M174.666,66.613c-25.737,14.328-44.516,30.438-57.715,47.599-.566.035-1.124.059-1.66.059,0,0-95.784-1.944-39.64-114.271C75.651,0,0,26.693,0,102.382s52.411,97.627,76.703,101.982c5.158.925,9.981,1.665,14.547,2.232,1.206,12.869,3.969,25.653,7.842,38.111,0,0,92.565,30.188,176.449-45.925,0,0-74.823-47.361-100.875-132.168Z" stroke-width="0"/>
+                                </g>
+                            </svg>&nbsp;<?= $image->caption()->esc() ?></h5>
                         <?php endif ?>
                     </li>
                 <?php endforeach ?>
@@ -36,16 +33,6 @@
 
         <p class="marginleft">
         <strong>tags:</strong> <?= $page->tags()->kti() ?>
-        </p>
-
-        <?php $tags = $page->pluck('tags', ',', true); ?>
-        <p class="marginleft">
-        <strong>tags:</strong>
-        <?php foreach($tags as $tag): ?>
-          
-            <a class="green" href="<?= url('works', ['params' => ['tag' => $tag]]) ?>">
-            <?= html($tag) ?></a>,
-        <?php endforeach ?>
         </p>
 
         <a href="javascript:history.back()">

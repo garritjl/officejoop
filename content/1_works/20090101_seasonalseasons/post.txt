@@ -6,15 +6,19 @@ Date: 2009-01-01
 
 ----
 
+Tags: poetry
+
+----
+
 Description: 
 
 ----
 
-Cover: 
+Cover: - file://wEX43frBxNZUZjYd
 
 ----
 
-Tags: poetry
+Pics: - file://wEX43frBxNZUZjYd
 
 ----
 

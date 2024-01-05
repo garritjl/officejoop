@@ -2,11 +2,11 @@ Title: Objects & Methods Lecture Series 2022-2023
 
 ----
 
-Subtitle: Poster Design
+Date: 2022-12-01
 
 ----
 
-Date: 2022-12-01
+Tags: poster, Objects & Methods
 
 ----
 
@@ -14,11 +14,20 @@ Description: Poster/calendar of past and upcoming events for VCUarts Department 
 
 ----
 
-Cover: 
+Cover: - file://AdWn26alBXYcugAI
 
 ----
 
-Tags: poster, Objects & Methods
+Pics:
+
+- file://AdWn26alBXYcugAI
+- file://P6xgASU8PEl2GaDB
+- file://eXLtv0Gu3ppUyDld
+- file://VuUdhBNv1ISllC5T
+
+----
+
+Subtitle: Poster Design
 
 ----
 

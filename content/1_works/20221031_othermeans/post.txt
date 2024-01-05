@@ -2,11 +2,11 @@ Title: Objects & Methods Presents: Other Means
 
 ----
 
-Subtitle: Poster Design
+Date: 2022-10-31
 
 ----
 
-Date: 2022-10-31
+Tags: poster, Objects & Methods
 
 ----
 
@@ -14,11 +14,15 @@ Description: Lecture given by (link: https://othermeans.us text: Other Means cla
 
 ----
 
-Cover: 
+Cover: - file://Rw8gtMe23x4byqs9
 
 ----
 
-Tags: poster, Objects & Methods
+Pics: - file://Rw8gtMe23x4byqs9
+
+----
+
+Subtitle: Poster Design
 
 ----
 

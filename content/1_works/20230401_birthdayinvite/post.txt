@@ -6,15 +6,22 @@ Date: 2023-04-01
 
 ----
 
+Tags: poster, mail, thermal printing
+
+----
+
 Description: 
 
 ----
 
-Cover:
+Cover: - file://VCF3nZTLULaWCWzr
 
 ----
 
-Tags: poster, mail, thermal printing
+Pics:
+
+- file://VCF3nZTLULaWCWzr
+- file://Etc2KyQfWFcSgLeG
 
 ----
 

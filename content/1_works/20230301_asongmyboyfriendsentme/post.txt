@@ -2,11 +2,11 @@ Title: *A Song My Boyfriend Sent Me*
 
 ----
 
-Subtitle: Mini-Zine
+Date: 2023-03-01
 
 ----
 
-Date: 2023-03-01
+Tags: RISO, zine, Music
 
 ----
 
@@ -14,11 +14,18 @@ Description: Zine published in collaboration with (link: https://www.instagram.c
 
 ----
 
-Cover: 
+Cover: - file://r5fWpuBd5gPSM6KL
 
 ----
 
-Tags: RISO, zine, Music
+Pics:
+
+- file://r5fWpuBd5gPSM6KL
+- file://djm1JMVnIdFX0ciP
+
+----
+
+Subtitle: Mini-Zine
 
 ----
 

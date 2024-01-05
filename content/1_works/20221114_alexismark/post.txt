@@ -2,11 +2,11 @@ Title: Objects & Methods Presents: Alexis Mark
 
 ----
 
-Subtitle: Poster Design
+Date: 2022-11-14
 
 ----
 
-Date: 2022-11-14
+Tags: poster, Objects & Methods
 
 ----
 
@@ -14,11 +14,15 @@ Description: Lecture given by (link: https://www.alexismark.com text: Alexis Mar
 
 ----
 
-Cover: 
+Cover: - file://eW4d21Wq8mFNsRsv
 
 ----
 
-Tags: poster, Objects & Methods
+Pics: - file://eW4d21Wq8mFNsRsv
+
+----
+
+Subtitle: Poster Design
 
 ----
 
