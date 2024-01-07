@@ -264,6 +264,10 @@ figure {
   margin-top: 14pt;
 }
 
+li.workspagethumb {
+margin: -14pt 0 0 16pt;
+}
+
   .stamp {
     position: absolute;
     top: 30pt;

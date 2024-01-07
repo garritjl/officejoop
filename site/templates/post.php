@@ -29,10 +29,18 @@
             <?= $page->description()->kti() ?>
         </p>
 
+        
         <?php if ($page->hasChildren()) snippet('listpagechildren')?>
 
+
+        <?php $tags = $page->tags(); ?>
         <p class="marginleft">
-        <strong>tags:</strong> <?= $page->tags()->kti() ?>
+        <strong>tags:</strong> 
+        <?php foreach($tags as $tag): ?>
+          <a class="green" href="<?= url('works', ['params' => ['tag' => $tag]]) ?>">
+          <?= html($tag) ?></a>
+        <?php endforeach ?>
+        
         </p>
 
         <a href="javascript:history.back()">
