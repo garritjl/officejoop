@@ -105,6 +105,11 @@ h1 {
   p.tagsp {
     line-height: 34pt;
   }
+
+  p.tagspindent {
+    line-height: 34pt;
+    margin-left: 72pt;
+  }
   
   li {
     font-family: itc-american-typewriter, serif;
@@ -357,5 +362,20 @@ margin: -16pt 0 0 14pt;
 
   #tags {
     z-index: 1001;
-    margin-left: 1.2pt;
+    margin-left: 1.3pt;
+  }
+
+  #showtags {
+  color: white;
+  padding: 1pt 5pt 1.5pt 5pt;
+  border: 1.25pt solid white;
+  border-radius: 5pt;
+  background-color: #0e0e0e;
+  box-shadow:
+  0 0 0 2.5pt #0e0e0e;
+  text-decoration: none;
+  width: fit-content;
+  height: 24pt;
+  margin-left: 1.3pt;
+  
   }

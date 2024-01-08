@@ -35,7 +35,7 @@
 
         <br>
 <div id="tags">
-        <p class="marginleft">
+        <p class="tagspindent">
             <strong>tags:</strong> 
             <?php foreach($page->tags()->split() as $tag): ?>
                 <a class="taglink" href="<?= url('works', ['params' => ['tag' => $tag]]) ?>">

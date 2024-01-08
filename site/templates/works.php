@@ -11,7 +11,9 @@
 
         <h1><a class="email" href="/works"><?= $page->title()->esc() ?></a></h1>
         
-        <div id="tags">
+        <p class="tagsp" onclick="showtags()"><span id="showtags">sort by tag <span style="color:red">↓</span></span></p>
+
+        <div id="tags" style="display:none;">
         <?php $tags = $page->children()->listed()->pluck('tags', ',', true); ?>
         <p class="tagsp">
         <?php foreach($tags as $tag): ?>
@@ -21,7 +23,18 @@
         <?php endforeach ?><a class="email" href="/works">show all</a>
         </p></div>
 
-        <br>
+<script>
+function showtags() {
+  var x = document.getElementById("tags");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+
+        
         
         
 
