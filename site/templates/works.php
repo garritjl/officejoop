@@ -11,10 +11,11 @@
 
         <h1><a class="email" href="/works"><?= $page->title()->esc() ?></a></h1>
         
-        <p class="tagsp" onclick="showtags()"><span id="showtags">sort by tag <span style="color:red">↓</span></span></p>
+        <p class="tagsp" onclick="showtags()"><span id="showtags">sort by tag <span style="color:red">▾</span></span></p>
 
         <div id="tags" style="display:none;">
-        <?php $tags = $page->children()->listed()->pluck('tags', ',', true); ?>
+        <?php $tags = $page->children()->listed()->pluck('tags', ',', true);
+        asort($tags); ?>
         <p class="tagsp">
         <?php foreach($tags as $tag): ?>
           
@@ -38,7 +39,7 @@ function showtags() {
         
         
 
-        <ul>
+        <ul style="margin-top:2pt;">
           <?php foreach ($item as $item): ?>
             <li>
               <a class="green" <?php e($item->isOpen(), 'aria-current="page"') ?> href="<?= $item->url() ?>">

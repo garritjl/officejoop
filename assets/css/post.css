@@ -179,24 +179,28 @@ h1 {
 
   .green:link {
     color: #64bc2a;
+    border-radius: 2.5pt;
     background-color: none; 
     text-decoration: none;
   }
   
   .green:hover {
     color: #64bc2a;
+    border-radius: 2.5pt;
     background-color: yellow; 
     text-decoration: none;
   }
   
   .green:visited {
     color: #64bc2a;
+    border-radius: 2.5pt;
     background-color: none; 
     text-decoration: none;
   }
   
   .green:active {
     color: #ff0000;
+    border-radius: 2.5pt;
     background-color: yellow; 
     text-decoration: none;
   }
@@ -204,24 +208,28 @@ h1 {
 /** social links (blue) **/
   .blue:link {
     color: #0081ff;
+    border-radius: 2.5pt;
     background-color: none; 
     text-decoration: none;
   }
   
   .blue:hover {
     color: #0081ff;
+    border-radius: 2.5pt;
     background-color: yellow; 
     text-decoration: none;
   }
   
   .blue:visited {
     color: #0081ff;
+    border-radius: 2.5pt;
     background-color: none; 
     text-decoration: none;
   }
   
   .blue:active {
     color: #ff0000;
+    border-radius: 2.5pt;
     background-color: yellow; 
     text-decoration: none;
   }
