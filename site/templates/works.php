@@ -11,14 +11,16 @@
 
         <h1><a class="email" href="/works"><?= $page->title()->esc() ?></a></h1>
         
+        <div id="tags">
         <?php $tags = $page->children()->listed()->pluck('tags', ',', true); ?>
-        <p>
+        <p class="tagsp">
         <?php foreach($tags as $tag): ?>
           
-            <a class="green" href="<?= url('works', ['params' => ['tag' => $tag]]) ?>">
-            <?= html($tag) ?></a>, 
+            <a class="taglink" href="<?= url('works', ['params' => ['tag' => $tag]]) ?>">
+            <?= html($tag) ?></a>&nbsp; 
         <?php endforeach ?><a class="email" href="/works">show all</a>
-        </p>
+        </p></div>
+
         <br>
         
         

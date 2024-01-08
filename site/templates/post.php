@@ -33,16 +33,16 @@
         <?php if ($page->hasChildren()) snippet('listpagechildren')?>
 
 
-        <?php $tags = $page->tags(); ?>
+        <br>
+<div id="tags">
         <p class="marginleft">
-        <strong>tags:</strong> 
-        <?php foreach($tags as $tag): ?>
-          <a class="green" href="<?= url('works', ['params' => ['tag' => $tag]]) ?>">
-          <?= html($tag) ?></a>
-        <?php endforeach ?>
-        
+            <strong>tags:</strong> 
+            <?php foreach($page->tags()->split() as $tag): ?>
+                <a class="taglink" href="<?= url('works', ['params' => ['tag' => $tag]]) ?>">
+                <?= html($tag) ?></a>&nbsp;
+            <?php endforeach ?>
         </p>
-
+</div>
         <a href="javascript:history.back()">
         <img src="/content/backbut.svg" alt="back button" height="151" width="136">
         </a>
