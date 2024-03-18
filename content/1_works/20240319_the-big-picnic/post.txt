@@ -1,0 +1,32 @@
+Title: *The Big Picnic*
+
+----
+
+Subtitle: Flyer Design
+
+----
+
+Date: 2024-03-19
+
+----
+
+Tags: poster
+
+----
+
+Description: Flyer for a Spring Solstice celebration I organized in 2024.
+
+----
+
+Cover: - file://gJRZD0Jw4XdHZNmA
+
+----
+
+Pics:
+
+- file://gJRZD0Jw4XdHZNmA
+- file://bJNRm5vQkZ2Zm4SW
+
+----
+
+Uuid: 6QIsN815WERTnPnB
