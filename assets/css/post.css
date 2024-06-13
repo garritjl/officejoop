@@ -273,7 +273,7 @@ h1 {
 }
 
 .taglink:hover {
-  color: white;
+  color: rgb(255, 225, 0);
   border: 1.25pt solid white; 
   background-color: #753e0a;
   text-decoration: none;
@@ -287,7 +287,7 @@ h1 {
 }
 
 .taglink:active {
-  color: white;
+  color: rgb(190, 54, 36);
   border: 1.25pt solid white;
   background-color: #753e0a;
   text-decoration: none;
@@ -301,7 +301,9 @@ img {
 }
 
 img.coverimage {
-  width: 400px;
+  width: 200px;
+  /** border: 1px solid grey;
+  border-radius: 6px; **/
 }
 
 figure {
@@ -386,4 +388,20 @@ margin: -16pt 0 0 14pt;
   height: 24pt;
   margin-left: 1.3pt;
   cursor: pointer;
+  }
+
+  #showtags:hover {
+    color: rgb(255, 225, 0);
+  }
+
+  #showtags:active {
+    color: rgb(190, 54, 36);
+  }
+
+  #showalltagssection:hover {
+    color: rgb(255, 225, 0);
+  }
+
+  #showalltagssection:active {
+    color: rgb(190, 54, 36);
   }
