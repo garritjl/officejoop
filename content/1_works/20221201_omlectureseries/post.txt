@@ -2,6 +2,10 @@ Title: Objects & Methods Lecture Series 2022-2023
 
 ----
 
+Subtitle: 
+
+----
+
 Date: 2022-12-01
 
 ----
@@ -24,10 +28,6 @@ Pics:
 - file://P6xgASU8PEl2GaDB
 - file://eXLtv0Gu3ppUyDld
 - file://VuUdhBNv1ISllC5T
-
-----
-
-Subtitle: Poster Design
 
 ----
 

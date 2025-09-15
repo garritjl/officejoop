@@ -16,7 +16,7 @@ Tags: thermal printing, poetry
 
 Description:
 
-Material studies after purchasing my first receipt printer, learning to understand the machine itself and the medium of thermal printing and heat-sensitive paper. 
+Material studies after purchasing my first receipt printer, learning to understand the machine and the medium of thermal printing and heat-sensitive paper. 
 
 At first I had no USB cable for the printer, so I could only work with the character set test sheet.
 

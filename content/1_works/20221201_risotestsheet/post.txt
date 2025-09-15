@@ -2,6 +2,10 @@ Title: RISO Test Sheet
 
 ----
 
+Subtitle: 
+
+----
+
 Date: 2022-12-01
 
 ----
@@ -10,7 +14,7 @@ Tags: poster, RISO, poetry, Pokémon
 
 ----
 
-Description: 
+Description: Excercise in designing for risograph printing, and a reference for ink colors.
 
 ----
 

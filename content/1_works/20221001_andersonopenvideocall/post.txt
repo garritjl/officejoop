@@ -2,6 +2,10 @@ Title: The Anderson Open Video Call
 
 ----
 
+Subtitle: 
+
+----
+
 Date: 2022-10-01
 
 ----
@@ -19,10 +23,6 @@ Cover: - file://uLsuvufDxPrQnGQM
 ----
 
 Pics: - file://uLsuvufDxPrQnGQM
-
-----
-
-Subtitle: Poster Design
 
 ----
 

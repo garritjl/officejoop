@@ -1,0 +1,32 @@
+Title: Favorite Shirts & Company
+
+----
+
+Subtitle: 
+
+----
+
+Date: 2024-10-20
+
+----
+
+Tags: identity, ongoing, web
+
+----
+
+Description: clothing brand established in 2024, identity, (link: https://garrit.net/favoriteshirts text: website class: green) and photography by myself
+
+----
+
+Cover: - file://N6WEuAcPD9PGpTqC
+
+----
+
+Pics:
+
+- file://N6WEuAcPD9PGpTqC
+- file://G0sK8hrekyn1AEZa
+
+----
+
+Uuid: TYFrtXGe4bZSIZzY

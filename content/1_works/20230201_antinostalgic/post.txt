@@ -2,6 +2,10 @@ Title: *Anti-Nostalgic*
 
 ----
 
+Subtitle: 
+
+----
+
 Date: 2023-02-01
 
 ----
@@ -10,7 +14,10 @@ Tags: drawing, thermal printing, poetry, anime, Music
 
 ----
 
-Description: 
+Description:
+
+thermal printed illustration
+(link: https://www.youtube.com/watch?v=GhSHpDYcY00 text: *[Gravitation: Bad Luck] Anti-Nostalgic* class: blue)
 
 ----
 

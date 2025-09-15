@@ -2,6 +2,10 @@ Title: *Monkey*
 
 ----
 
+Subtitle: 
+
+----
+
 Date: 2021-09-01
 
 ----
@@ -10,7 +14,7 @@ Tags: poster, drawing
 
 ----
 
-Description: 
+Description: a result of research into bootleg, counterfeit merchandise of copyrighted mascots and cartoon characters. Directly inspired by (link: https://d2w9rnfcy7mm78.cloudfront.net/13083467/original_35b2f127f45e643af8fa6968d7c7712a.jpg?1631021657?bc=0 text: Harry Potter Obama Sonic class: blue) and Kerberos from Cardcaptor Sakura
 
 ----
 

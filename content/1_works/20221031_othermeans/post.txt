@@ -2,6 +2,10 @@ Title: Objects & Methods Presents: Other Means
 
 ----
 
+Subtitle: 
+
+----
+
 Date: 2022-10-31
 
 ----
@@ -10,7 +14,7 @@ Tags: poster, Objects & Methods
 
 ----
 
-Description: Lecture given by (link: https://othermeans.us text: Other Means class: blue) at the 609 Bowe St. Auditorium in Richmond, Virginia on October 31st, 2022.
+Description: Poster for lecture given by (link: https://othermeans.us text: Other Means class: blue) at the 609 Bowe St. Auditorium in Richmond, Virginia on October 31st, 2022.
 
 ----
 
@@ -19,10 +23,6 @@ Cover: - file://Rw8gtMe23x4byqs9
 ----
 
 Pics: - file://Rw8gtMe23x4byqs9
-
-----
-
-Subtitle: Poster Design
 
 ----
 

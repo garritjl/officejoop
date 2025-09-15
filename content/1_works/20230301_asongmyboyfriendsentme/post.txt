@@ -2,6 +2,10 @@ Title: *A Song My Boyfriend Sent Me*
 
 ----
 
+Subtitle: 
+
+----
+
 Date: 2023-03-01
 
 ----
@@ -22,10 +26,6 @@ Pics:
 
 - file://r5fWpuBd5gPSM6KL
 - file://djm1JMVnIdFX0ciP
-
-----
-
-Subtitle: Mini-Zine
 
 ----
 

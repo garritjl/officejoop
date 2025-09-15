@@ -2,6 +2,10 @@ Title: *Chocolate Secret*
 
 ----
 
+Subtitle: Postcard to Yoko Ori in Japan
+
+----
+
 Date: 2023-04-01
 
 ----
@@ -10,7 +14,10 @@ Tags: mail, Mario, poetry, thermal printing
 
 ----
 
-Description: 
+Description:
+
+matched with recipient randomly through (link: https://postcrossing.com text: Postcrossing class: blue)
+the second level of Chocolate Island in *Super Mario World* and its secret exit
 
 ----
 
@@ -23,10 +30,6 @@ Pics:
 - file://cMrq7rndK3nu5psq
 - file://Ft2zZj135WSqt464
 - file://j3oI3Mu5Fy5OrrGm
-
-----
-
-Subtitle: Postcard to Yoko Ori in Japan
 
 ----
 
