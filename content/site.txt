@@ -2,4 +2,4 @@ Title: garrit j. lichtenberg archive
 
 ----
 
-Footer: 2025 version 1.1.2
+Footer: 2025 version 1.2

@@ -1,0 +1,29 @@
+Title: *cover*
+
+----
+
+Subtitle: 
+
+----
+
+Date: 2023-06-01
+
+----
+
+Tags: drawing
+
+----
+
+Description: 
+
+----
+
+Cover: - file://R4xwLMFBq2jzcQ4h
+
+----
+
+Pics: - file://R4xwLMFBq2jzcQ4h
+
+----
+
+Uuid: asqsiUf17STbaCnY

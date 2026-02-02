@@ -1,0 +1,29 @@
+Title: *poster*
+
+----
+
+Subtitle: 
+
+----
+
+Date: 2023-02-01
+
+----
+
+Tags: drawing, tracing
+
+----
+
+Description: early experiment in tracing as a drawing method/image reproduction method
+
+----
+
+Cover: - file://70h8fWaTjnb3jJPQ
+
+----
+
+Pics: - file://70h8fWaTjnb3jJPQ
+
+----
+
+Uuid: GVfjUagIhim3jnIr

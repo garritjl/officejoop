@@ -1,0 +1,33 @@
+Title: My Birthday
+
+----
+
+Subtitle: 
+
+----
+
+Date: 2025-11-07
+
+----
+
+Tags: Mae West, poster
+
+----
+
+Description:
+
+Poster for (link: maewest.ch text: Mae West class: blue)'s November 2025 exhibition: *My Birthday* by Pat Homse & Hsiao-Yen Yao
+
+see also : (link: /works/mae-west text: Mae West class: green)
+
+----
+
+Cover: - file://fmym1j40xLT1i32B
+
+----
+
+Pics: - file://fmym1j40xLT1i32B
+
+----
+
+Uuid: J3NvKYCwzOeTYuV7
