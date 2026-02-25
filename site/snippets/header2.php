@@ -68,8 +68,8 @@
       <?php endforeach ?>
 -->
     
-      <a class="blue" href="https://form.jotform.com/garritj6/principalities-mailing-list">
-      <i>Principalities</i> Mailing List</a>,
+<!--       <a class="blue" href="https://form.jotform.com/garritj6/principalities-mailing-list">
+      <i>Principalities</i> Mailing List</a>, -->
     
       </span>
 
