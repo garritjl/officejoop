@@ -18,7 +18,7 @@ Description: clothing brand established in 2024, identity, (link: https://garrit
 
 ----
 
-Cover: - file://N6WEuAcPD9PGpTqC
+Cover: - file://dGdNk5gDAU3lFOj8
 
 ----
 
@@ -26,6 +26,7 @@ Pics:
 
 - file://N6WEuAcPD9PGpTqC
 - file://G0sK8hrekyn1AEZa
+- file://dGdNk5gDAU3lFOj8
 
 ----
 
